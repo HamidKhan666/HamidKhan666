@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HamidKhan666
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data science with python.
-- 💞️ I’m looking to collaborate on Data science projects.
+- 👀 I’m interested in Computer Vision and Deep Learning
+- 🌱 I’m currently learning Computer Vision with python.
+- 💞️ I’m looking to collaborate on Computer Vision projects.
 - 📫 You can reach me at hamidullah.cse@uetpeshawar.edu.pk
 
 
